@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h2>👨‍💻 Hakkımda</h2>
       <ul>
         <li>🔭 Şu anda <b>KolayPanel</b> üzerinde çalışıyorum</li>
@@ -18,7 +18,7 @@
         <li>📫 Bana ulaşmak için: <a href="https://twitter.com/enessafakb">Twitter</a></li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h2>🛠 Beceriler</h2>
       <p align="center">
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -31,11 +31,11 @@
   <tr>
     <td width="50%">
       <h2>📊 GitHub İstatistiklerim</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=enesbsafak&show_icons=true&theme=radical" alt="Enes'in GitHub İstatistikleri" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=enesbsafak&show_icons=true&theme=radical&hide_border=true" alt="Enes'in GitHub İstatistikleri" width="100%"/>
     </td>
     <td width="50%">
       <h2>🌟 En Çok Kullandığım Diller</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbsafak&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbsafak&layout=compact&theme=radical&hide_border=true" alt="En Çok Kullanılan Diller" width="100%"/>
     </td>
   </tr>
 </table>
