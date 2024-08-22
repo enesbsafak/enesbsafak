@@ -1,7 +1,4 @@
-# 👋 Merhaba, Ben Enes Safak!
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/enessafakb?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/enessafakb)
-[![GitHub followers](https://img.shields.io/github/followers/enesbsafak?style=for-the-badge&logo=github&color=181717)](https://github.com/enesbsafak)
+# 👋 Merhaba, Ben Enes Şafak!
 
 ## 👨‍💻 Hakkımda
 
