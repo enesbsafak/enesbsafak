@@ -28,16 +28,7 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h2>📊 GitHub İstatistiklerim</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=enesbsafak&show_icons=true&theme=radical&hide_border=true" alt="Enes'in GitHub İstatistikleri" width="100%"/>
-    </td>
-    <td width="50%">
-      <h2>🌟 En Çok Kullandığım Diller</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbsafak&layout=compact&theme=radical&hide_border=true" alt="En Çok Kullanılan Diller" width="100%"/>
-    </td>
-  </tr>
+
 </table>
 
 <div align="center">
