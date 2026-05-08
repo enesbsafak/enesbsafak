@@ -18,7 +18,6 @@ Temiz kod, sürdürülebilir mimari ve stabil sistemler ilgimi çekiyor.
 - EPG, favoriler, arama ve klavye kısayolları
 
 🧪 Durum: **Public Beta**  
-🔗 Proje: GitHub üzerinde (repo linkini buraya ekleyebilirsin)
 
 ---
 
